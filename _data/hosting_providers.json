@@ -2778,5 +2778,16 @@
     "plan": "",
     "reviewed": "2022.10.17",
     "note": ""
+  },
+   {
+    "name": "MoonQube",
+    "link": "https://moonqube.com/",
+    "category": "partial",
+    "tutorial": "https://support.moonqube.com/",
+    "announcement": "",
+    "plan": "",
+    "reviewed": "2023.09.07",
+    "note": ""
   }
+  
 ]
